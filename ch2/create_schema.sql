@@ -1,0 +1,3 @@
+CREATE SCHEMA products;
+CREATE SCHEMA customers;
+CREATE SCHEMA sales;
